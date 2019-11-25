@@ -1,0 +1,164 @@
+{
+  "description": "Edible Mushrooms of California, grouped by genus",
+  "source": "https://www.mykoweb.com/CAF/edible.html",
+  "mushrooms": [{
+      "genus": "Cantharellus",
+      "common_name_of_genus": "Chanterelles",
+      "members": [{
+          "common_name": "Pacific Golden Chanterelle",
+          "species": "formosus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Cantharellus_formosus.jpg",
+          "color": "yellow"
+        },
+        {
+          "common_name": "California Chanterelle",
+          "species": "californicus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Cantharellus_californicus.jpg",
+          "color": "yellow"
+        },
+        {
+          "common_name": "White Chanterelle",
+          "species": "subalbidus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Cantharellus_subalbidus.jpg",
+          "color": "white"
+        }
+
+      ]
+    },
+    {
+      "genus": "Boletus",
+      "common_name_of_genus": "Boletes",
+      "members": [{
+          "common_name": "California King Bolete",
+          "species": "edulis var. grandedulis",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Boletus_edulis.jpg",
+          "color": "red"
+        },
+        {
+          "common_name": "Queen Bolete",
+          "species": "regineus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Boletus_regineus.jpg",
+          "color": "tan"
+        },
+        {
+          "common_name": "Fib King",
+          "species": "fibrillosus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Boletus_fibrillosus.jpg",
+          "color": "tan"
+        },
+        {
+          "common_name": "White King Bolete",
+          "species": "barrowsii",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Boletus_barowsii.jpg",
+          "color": "white"
+        }
+
+      ]
+    },
+    {
+      "genus": "Coprinus",
+      "common_name_of_genus": "Inky Caps",
+      "members": [{
+        "common_name": "Shaggy Mane",
+        "species": "comatus",
+        "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Coprinus_comatus.jpg",
+        "color": "white"
+      }]
+    },
+    {
+      "genus": "Agaricus",
+      "common_name_of_genus": "Agarics",
+      "members": [{
+          "common_name": "Common Mushroom",
+          "species": "bisporus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Agaricus_bisporus.jpg",
+          "color": "white"
+        },
+        {
+          "common_name": "Meadow Mushroom",
+          "species": "campestris",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Agaricus_campestris.jpg",
+          "color": "white"
+        },
+        {
+          "common_name": "Prince",
+          "species": "augustus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Agaricus_augustus.jpg",
+          "color": "tan"
+        }
+
+      ]
+    },
+    {
+      "genus": "Morchella",
+      "common_name_of_genus": "Morels",
+      "members": [{
+          "common_name": "Woodchip Morel",
+          "species": "rufobrunnea",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Morchella_rufobrunnea.jpg",
+          "color": "tan"
+        },
+        {
+          "common_name": "Black Morel",
+          "species": "elata",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Morchella_elata.jpg",
+          "color": "tan"
+        }
+
+      ]
+    },
+    {
+      "genus": "Craterellus",
+      "common_name_of_genus": "Trumpets",
+      "members": [{
+          "common_name": "Black Trumpet",
+          "species": "calicornucopioides",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Craterellus_calicornucopioides.jpg",
+          "color": "black"
+        },
+        {
+          "common_name": "Yellowfoot",
+          "species": "tubaeformis",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Craterellus_tubaeformis.jpg",
+          "color": "yellow"
+        }
+
+      ]
+    },
+    {
+      "genus": "Pleurotus",
+      "common_name_of_genus": "Oysters",
+      "members": [{
+          "common_name": "Oyster Mushroom",
+          "species": "ostreatus",
+          "image": "https://github.com/grhabyt/final19/blob/master/mushroomsPics/Pleurotus_ostreatus.jpg",
+          "color": "white"
+        }
+
+      ]
+    },
+    {
+      "genus": "Hydnum",
+      "common_name_of_genus": "Hedgehogs",
+      "members": [{
+          "common_name": "Hedgehog Mushroom",
+          "species": "repandum",
+          "image": "https://www.mykoweb.com/CAF/photos/Hydnum_repandum%28mgw-01%29.jpg",
+          "color": "tan"
+        }
+      ]
+    },
+    {
+      "genus": "Clitocybe",
+      "common_name_of_genus": "Blewits",
+      "members": [{
+          "common_name": "Blewit",
+          "species": "nuda",
+          "image": "https://www.mykoweb.com/CAF/photos/Clitocybe_nuda%28mgw-01%29.jpg",
+          "color": "purple"
+        }
+
+      ]
+    }
+  ]
+}
